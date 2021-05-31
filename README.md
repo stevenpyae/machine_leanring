@@ -9,6 +9,6 @@ The following contents covered
 |--------|----------|  
 | numpy | 1.20.1 | 
 | pandas | 1.2.4 |  
-| matplootlib | 3.3.4 |  
+| matplotlib | 3.3.4 |  
 | scikit-learn | 0.24.1 |  
   
