@@ -3,6 +3,7 @@ The following contents covered
 1. Data Pre Processing
 2. Regression
 3. Classification
+4. Clustering
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
