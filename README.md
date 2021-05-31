@@ -12,4 +12,4 @@ The following contents covered
 | pandas | 1.2.4 |  
 | matplotlib | 3.3.4 |  
 | scikit-learn | 0.24.1 |  
-  
+| scipy | 1.6.2 |  
