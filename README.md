@@ -1,10 +1,31 @@
 # Machine Learning Basics
 The following contents covered
 1. Data Pre Processing
+   * Missing Value Handling
+   * Encoding Variables
+   * Splitting dataset
+   * Feature Scaling
 2. Regression
+   * Simple Linear
+   * Multiple Linear
+   * Polynomial 
+   * Support Vector
+   * Decision Tree
+   * Random Forest
 3. Classification
+   * Logistic Regression
+   * K-Nearest Neighbors (K-NN)
+   * Support Vector Machine (SVM)
+   * Kernel SVM
+   * Naiive Bayes
+   * Decision Tree
+   * Random Forest 
 4. Clustering
+   * K-Means Clustering
+   * Hierarchical Clustering
 5. Association Rule Learning
+   * Aprioi
+   * Eclat
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
