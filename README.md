@@ -4,6 +4,7 @@ The following contents covered
 2. Regression
 3. Classification
 4. Clustering
+5. Association Rule Learning
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
