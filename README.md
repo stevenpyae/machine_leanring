@@ -13,3 +13,4 @@ The following contents covered
 | matplotlib | 3.3.4 |  
 | scikit-learn | 0.24.1 |  
 | scipy | 1.6.2 |  
+| apyori | 1.1.2 |  
