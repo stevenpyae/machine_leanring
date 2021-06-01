@@ -24,7 +24,7 @@ The following contents covered
    * K-Means Clustering
    * Hierarchical Clustering
 5. Association Rule Learning
-   * Aprioi
+   * Apriori
    * Eclat
 
 # List of Libraries used (Will be updated with more repositories)
