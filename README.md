@@ -26,6 +26,9 @@ The following contents covered
 5. Association Rule Learning
    * Apriori
    * Eclat
+6. Reinforcement Learning
+   * Upper Confidence Bound (UCB)
+   * Thompson Sampling
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
@@ -36,3 +39,4 @@ The following contents covered
 | scikit-learn | 0.24.1 |  
 | scipy | 1.6.2 |  
 | apyori | 1.1.2 |  
+
