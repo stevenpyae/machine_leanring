@@ -29,6 +29,10 @@ The following contents covered
 6. Reinforcement Learning
    * Upper Confidence Bound (UCB)
    * Thompson Sampling
+7. Natural Language Processing
+   * nltk (to remove punctuations) 
+   * Count Vectorizer
+   * Naive Bayes Classification
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
