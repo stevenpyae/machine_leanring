@@ -43,4 +43,4 @@ The following contents covered
 | scikit-learn | 0.24.1 |  
 | scipy | 1.6.2 |  
 | apyori | 1.1.2 |  
-
+| tensorflow | 2.5.0 |  
