@@ -33,6 +33,9 @@ The following contents covered
    * nltk (to remove punctuations) 
    * Count Vectorizer
    * Naive Bayes Classification
+8. Deep Learning
+   * Artificial Neural Network 
+   * Convoluted Neural Network 
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
