@@ -47,3 +47,5 @@ The following contents covered
 | scipy | 1.6.2 |  
 | apyori | 1.1.2 |  
 | tensorflow | 2.5.0 |  
+| keras-preprocessing | 1.1.2 |  
+
