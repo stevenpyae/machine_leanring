@@ -36,6 +36,15 @@ The following contents covered
 8. Deep Learning
    * Artificial Neural Network 
    * Convoluted Neural Network 
+9. Dimensionality Reduction
+   * Principal Component Analysis
+   * Linear Discriminant Analysis
+   * Kernel PCA
+10. Model Selection & Boosting
+   * Grid_search
+   * K-Fold Cross Validation
+   * XGBoosting
+
 
 # List of Libraries used (Will be updated with more repositories)
 | Library | Version |  
