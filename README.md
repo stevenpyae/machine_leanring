@@ -41,8 +41,7 @@ The following contents covered
    * Linear Discriminant Analysis
    * Kernel PCA
 10. Model Selection & Boosting
-   * Linear Discr
-   * Grid_search
+11.  * Grid_search
    * K-Fold Cross Validation
    * XGBoosting
 
